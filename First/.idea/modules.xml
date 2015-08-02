@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FData/FData.iml" filepath="$PROJECT_DIR$/FData/FData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLiferay/FLiferay.iml" filepath="$PROJECT_DIR$/FLiferay/FLiferay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FPortlet/FPortlet.iml" filepath="$PROJECT_DIR$/FPortlet/FPortlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First.iml" filepath="$PROJECT_DIR$/First.iml" />
+    </modules>
+  </component>
+</project>
