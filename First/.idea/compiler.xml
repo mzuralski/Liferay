@@ -34,8 +34,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FData" target="1.7" />
-      <module name="First" target="1.5" />
+      <module name="FData" target="1.8" />
+      <module name="First" target="1.8" />
       <module name="FLiferay" target="1.7" />
       <module name="FPortlet" target="1.6" />
     </bytecodeTargetLevel>
